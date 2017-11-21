@@ -7,3 +7,4 @@
 * Mujer Maravilla
 * Jessica Jones
 * Jawiman
+* Spiderman
